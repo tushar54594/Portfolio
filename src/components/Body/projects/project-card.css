@@ -23,7 +23,7 @@
 .project-tags{
     display: flex;
     max-width: 60%;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 
 .tag{

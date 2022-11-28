@@ -10,6 +10,10 @@ export const SkillsData = [
         icon: <i class="devicon-css3-plain colored"></i>
     },
     {
+        name: "TailwindCss",
+        icon: <i class="devicon-tailwindcss-plain colored"></i>
+    },
+    {
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>
     },

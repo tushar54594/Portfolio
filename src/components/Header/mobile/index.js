@@ -3,8 +3,8 @@ import "./mobile.css";
 
 function Mobile({ isOpen, setIsOpen }) {
   return (
-    <div className="mobile">
-      <div className="close-icon" onClick={() => setIsOpen(!isOpen)}>
+    <div className="mobile" onClick={() => setIsOpen(!isOpen)}>
+      <div className="close-icon" >
         <i class="fa-regular fa-circle-xmark"></i>
       </div>
       <div className="mobile-options">

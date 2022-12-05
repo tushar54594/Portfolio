@@ -1,6 +1,14 @@
 export const ProjectData = [
     {
         id:1,
+        title:"Todo App",
+        about:"This is a Todo Application. Here you can add new tasks, mark the tasks as completed and also delete the tasks.",
+        tags:["React", "Tailwindcss"],
+        github: 'https://github.com/tushar54594/TodoApp',
+        image:'https://user-images.githubusercontent.com/94536522/205562051-5d75b7b2-dc0d-454d-9069-c9581afa55ed.png'
+    },
+    {
+        id:1,
         title:"Travel Website",
         about:"Landing page of a Travel agency",
         tags:["React", "Tailwindcss"],

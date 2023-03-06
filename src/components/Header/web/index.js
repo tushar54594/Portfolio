@@ -2,6 +2,7 @@ import React from "react";
 import "./web.css";
 
 function Web() {
+
   return (
     <div className="web">
       <div className="web-option">
